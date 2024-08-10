@@ -10,6 +10,7 @@ class Menu extends Component {
                     <li>Services</li>
                     <li>About</li>
                     <li>Contact</li>
+                    <li>Login</li>
                 </u>
             </div>
         );
